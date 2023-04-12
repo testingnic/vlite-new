@@ -2,7 +2,7 @@
     {
         "host": "vlite1.tlsvpnfats.net",
         "image": "us.png",
-        "name": "Miami"
+        "name": "Miami [Dedicado]"
     },
 {
         "host": "vlite2.tlsvpnfats.net",
@@ -13,5 +13,10 @@
         "host": "45.58.56.86",
         "image": "us.png",
         "name": "Atlanta"
+    },
+{
+        "host": "45.58.56.86",
+        "image": "us.png",
+        "name": "Dallas [Dedicado]"
     }
 ]
