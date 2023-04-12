@@ -8,5 +8,10 @@
         "host": "vlite2.tlsvpnfats.net",
         "image": "us.png",
         "name": "Chicago"
+    },
+{
+        "host": "45.58.56.86",
+        "image": "us.png",
+        "name": "Atlanta"
     }
 ]
