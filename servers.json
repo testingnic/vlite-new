@@ -18,5 +18,10 @@
         "host": "45.58.56.86",
         "image": "us.png",
         "name": "Dallas [Dedicado]"
-    }
+    },
+{
+        "host": "155.94.218.226",
+        "image": "us.png",
+        "name": "Miami directo"
+    },
 ]
