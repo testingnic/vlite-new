@@ -23,5 +23,10 @@
         "host": "155.94.218.226",
         "image": "us.png",
         "name": "Miami directo"
+    },
+{
+        "host": "5.161.200.193",
+        "image": "us.png",
+        "name": "test"
     }
 ]
