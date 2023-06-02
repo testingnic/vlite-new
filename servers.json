@@ -2,14 +2,24 @@
     {
         "host": "vlite1.tlsvpnfats.net",
         "image": "us.png",
-        "name": "Dallas 2 [Dedicado]"
+        "name": "Miami [Dedicado] [Gaming]"
+    },
+        {
+        "host": "5.161.223.62",
+        "image": "us.png",
+        "name": "Ashburn, [STREAMING] 1"
+    },
+     {
+        "host": "5.161.189.163",
+        "image": "us.png",
+        "name": "Ashburn, [STREAMING] 2"
     },
     {
         "host": "45.58.56.86",
         "image": "us.png",
         "name": "Atlanta"
     },
-{
+    {
         "host": "155.94.218.226",
         "image": "us.png",
         "name": "Miami directo"
