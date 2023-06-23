@@ -20,6 +20,11 @@
     "name": "Ashburn"
   },
   {
+    "host": "193.106.248.41",
+    "image": "us.png",
+    "name": "Miami 2 [Gaming]"
+  },
+  {
     "host": "155.94.218.226",
     "image": "us.png",
     "name": "Miami directo"
