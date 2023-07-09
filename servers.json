@@ -5,28 +5,8 @@
     "name": "Miami [Dedicado] [Gaming]"
   },
   {
-    "host": "104.217.249.15",
-    "image": "us.png",
-    "name": "Dallas [Dedicado]"
-  },
-  {
     "host": "5.161.189.163",
     "image": "us.png",
     "name": "Ashburn"
-  },
-  {
-    "host": "193.106.248.41",
-    "image": "us.png",
-    "name": "Miami 2 [Gaming]"
-  },
-    {
-    "host": "193.106.248.42",
-    "image": "us.png",
-    "name": "Miami 3 [Gaming]"
-  },
-  {
-    "host": "155.94.218.226",
-    "image": "us.png",
-    "name": "Miami directo"
   }
 ]
