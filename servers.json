@@ -10,6 +10,11 @@
     "name": "Miami [Directo]"
   },
   {
+    "host": "193.106.248.41",
+    "image": "us.png",
+    "name": "Miami 2 [Gaming]"
+  },
+  {
     "host": "5.161.189.163",
     "image": "us.png",
     "name": "Ashburn"
